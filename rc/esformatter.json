@@ -95,7 +95,7 @@
 
     "after" : {
       "AssignmentExpression" : ">=1",
-      "AssignmentOperator" : 0,
+      "AssignmentOperator" : ">=0",
       "BlockStatement" : 0,
       "CallExpression" : -1,
       "CatchOpeningBrace" : ">=1",
